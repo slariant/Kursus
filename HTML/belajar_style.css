@@ -1,0 +1,16 @@
+body{
+    background-color: powderblue;
+}
+h1{
+    font-size: 50px
+}
+
+.button-merah{
+    color: brown;
+    font-size: 100px
+}
+
+#button-hijau{
+    color: chartreuse;
+    font-size: 100px
+}
